@@ -713,6 +713,7 @@ form .choose-file h6 {
 .notes {
     font-size: .8rem;
     color: #191919;
+    padding: .1rem;
 }
 
 .notes a {
